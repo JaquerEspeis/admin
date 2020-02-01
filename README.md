@@ -10,7 +10,7 @@ Somos un grupo multidisciplinario que trabaja para compartir cultura, conocimien
 ## Únase al JaquerEspeis:
 El jaquerespeis está lleno de proyectos que se gestionan de forma autónoma, pero son apoyados por toda la comunidad. Si desea unirse a un proyecto, contacte directamente a lxs gestores para contribuir. Acá podrá encontrar múltiples proyectos divididos en 4 áreas. 
 
-#### 1. Etscalante
+#### 1. Ethscalante
 Creemos que con la tecnología podemos cambiar el mundo tal como lo conocemos. Etscalante existe para empoderarnos a usar la tecnología de forma segura y con el fin de luchar por los derechos de todas las personas.
 - IPFS
 - TOR
